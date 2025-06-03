@@ -1,0 +1,6 @@
+psutil
+Pillow
+customtkinter
+wmi
+GPUtil
+requests

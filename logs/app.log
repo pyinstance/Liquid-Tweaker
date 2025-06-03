@@ -1,0 +1,174 @@
+2025-06-02 20:13:29,856 - DEBUG - Logging initialized.
+2025-06-02 20:13:29,963 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:13:29,963 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:13:29,963 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:13:29,963 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:13:29,972 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:13:46,045 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:13:46,045 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:13:46,045 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:13:46,045 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:13:46,045 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:13:46,046 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:13:46,046 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:13:46,046 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:13:46,051 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:13:46,358 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:13:46,486 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:13:47,199 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:13:47,317 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:13:54,175 - DEBUG - Root user did not select Tweaks
+2025-06-02 20:13:55,191 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,191 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,191 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,192 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,192 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,192 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,192 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,192 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,193 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,193 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,193 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,193 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:13:55,194 - DEBUG - Deleted All temp files and items
+2025-06-02 20:13:55,194 - DEBUG - Applied Tweaks
+2025-06-02 20:14:35,664 - DEBUG - Logging initialized.
+2025-06-02 20:14:35,880 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:14:35,880 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:14:35,880 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:14:35,881 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:14:35,892 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:14:51,943 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:14:51,944 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:14:51,951 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:14:52,208 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:14:52,329 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:14:52,974 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:14:53,088 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:20:46,627 - DEBUG - Logging initialized.
+2025-06-02 20:20:46,734 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:20:46,734 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:20:46,734 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:20:46,734 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:20:46,742 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:21:02,327 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:21:02,328 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:21:02,334 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:21:02,589 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:21:02,709 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:21:03,238 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:21:03,351 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:22:11,478 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,479 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,479 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,479 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,479 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,479 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,480 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,480 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,480 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,480 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:22:11,481 - DEBUG - Deleted All temp files and items
+2025-06-02 20:22:11,481 - DEBUG - Applied Tweaks
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,174 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,175 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,175 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,175 - DEBUG - failed to Delete All temp files and items
+2025-06-02 20:23:19,175 - DEBUG - Deleted All temp files and items
+2025-06-02 20:23:19,175 - DEBUG - Applied Tweaks
+2025-06-02 20:23:19,193 - DEBUG - Could not Create Plan Command '['powercfg', '/changename', 'Performance)', 'Liquid Ultra Performance Plan']' returned non-zero exit status 1.
+2025-06-02 20:23:19,193 - DEBUG - Applied Tweaks
+2025-06-02 20:25:32,459 - DEBUG - Logging initialized.
+2025-06-02 20:25:32,566 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:25:32,566 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:25:32,566 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:25:32,566 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:25:32,574 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 20:25:49,153 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 20:25:49,159 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 20:25:49,489 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:25:49,761 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 20:25:50,419 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 20:25:50,548 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 21:34:19,740 - DEBUG - Logging initialized.
+2025-06-02 21:34:19,881 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 21:34:19,881 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 21:34:19,881 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 21:34:19,881 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 21:34:19,890 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 21:34:36,745 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 21:34:36,746 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 21:34:36,753 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 21:34:37,115 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 21:34:37,250 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 21:34:37,952 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 21:34:38,207 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 22:44:44,991 - DEBUG - Logging initialized.
+2025-06-02 22:44:45,185 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 22:44:45,185 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 22:44:45,185 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 22:44:45,185 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 22:44:45,192 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-02 22:45:00,577 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-02 22:45:00,582 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-02 22:45:00,875 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 22:45:01,004 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-02 22:45:01,580 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-02 22:45:01,702 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-03 12:21:24,085 - DEBUG - Logging initialized.
+2025-06-03 12:21:24,565 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-03 12:21:24,565 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-03 12:21:24,565 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-03 12:21:24,565 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-03 12:21:24,574 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'pHYs' 54 9
+2025-06-03 12:21:40,738 - DEBUG - STREAM b'IDAT' 75 161542
+2025-06-03 12:21:40,743 - DEBUG - STREAM b'eXIf' 161629 14
+2025-06-03 12:21:41,054 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 12:21:41,212 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
+2025-06-03 12:21:41,768 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 12:21:41,897 - DEBUG - https://api.ipify.org:443 "GET / HTTP/1.1" 200 None
